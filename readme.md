@@ -15,7 +15,7 @@ A WordPress-plugin for adding custom text to the footer via the admin panel.
 
 ### Installation
 
-- Archive the plugin in zip format.
+- Download the plugin in zip format.
 - In the administrative part of website, go to "Plugins" -> "Add new plugin". Choose the archive and upload it.
 - Go to the "Plugins" -> "Footer Text". Choose "Activate".
 
